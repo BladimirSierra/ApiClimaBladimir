@@ -1,0 +1,4 @@
+#Wed Mar 29 18:26:24 CST 2023
+base.0=C\:\\Users\\Bladimir Sierra\\EjercicioClima\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
